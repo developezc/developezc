@@ -1,5 +1,10 @@
 ### Who am I? 💭
 
+I'm David from Jaen 😎 I have two cats. 🐈🐈‍⬛
+
+- 💼 I work as a Backend Developer at Sngular.
+- 🎓 Graduated in Computer Science at University of Jaen.
+
 --------------------
 
 ## What I use? 🛠️
